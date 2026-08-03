@@ -1,4 +1,3 @@
-# Soil-Erosion-RF-RUSLE
 # Soil Erosion Modeling using RUSLE and Random Forest
 
 This repository contains the code and sample data used in the study on soil erosion prediction.
